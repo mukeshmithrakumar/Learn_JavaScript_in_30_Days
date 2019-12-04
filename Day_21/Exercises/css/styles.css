@@ -1,0 +1,8 @@
+.featured {
+    background-color: rgba(38, 99, 231, 0.911);
+  }
+
+.success {
+	content: "This Event Happened";
+	color: orange;
+}
